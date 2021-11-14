@@ -8,7 +8,8 @@ Function -> Code Development for GRHO in c/c++, R, SQL, et VBA
 ## Introduction  
 
 This file is written in Markdown Syntax
-## Process I
+## Process I  
+Editting RMarkdown File in Gitbub
 ## Process II
 ## Process III
 ## Prcess IV
