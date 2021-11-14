@@ -1,2 +1,4 @@
 # grh3-odyssey
-journey through life
+journey through life  
+
+This file is written in Markdown
