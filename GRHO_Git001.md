@@ -5,7 +5,9 @@ Developer -> GRH3
 Function -> Code Development for GRHO in c/c++, R, SQL, et VBA
 
 ## PROLOGUE
-## Introduction
+## Introduction  
+
+This file is written in Markdown Syntax
 ## Process I
 ## Process II
 ## Process III
