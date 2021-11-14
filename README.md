@@ -1,4 +1,3 @@
 # grh3-odyssey
-journey through life  
-
+GRH3 adventures in Quantitative Development with focus on Timing and Execution  
 This file is written in Markdown
