@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Introduction   
 Developer: GRH3
 GLOC: GSB+  "D:\GRHO_2050_Util_GNAS\R_Util\R_Github_GL50.rmd"
-[GREF: ](https://cfss.uchicago.edu/setup/git-with-rstudio/)  
+[GREF: git_wit_rstudio ](https://cfss.uchicago.edu/setup/git-with-rstudio/)  
 Function: Write code using Github
 
 ## GitHub Documents
